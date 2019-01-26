@@ -1,0 +1,7 @@
+C:\Users\Artan\source\repos\HashTable\HashTable\bin\Debug\HashTable.exe.config
+C:\Users\Artan\source\repos\HashTable\HashTable\bin\Debug\HashTable.exe
+C:\Users\Artan\source\repos\HashTable\HashTable\bin\Debug\HashTable.pdb
+C:\Users\Artan\source\repos\HashTable\HashTable\obj\Debug\HashTable.csprojAssemblyReference.cache
+C:\Users\Artan\source\repos\HashTable\HashTable\obj\Debug\HashTable.csproj.CoreCompileInputs.cache
+C:\Users\Artan\source\repos\HashTable\HashTable\obj\Debug\HashTable.exe
+C:\Users\Artan\source\repos\HashTable\HashTable\obj\Debug\HashTable.pdb
